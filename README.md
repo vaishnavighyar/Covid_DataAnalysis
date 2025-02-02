@@ -1,5 +1,5 @@
 # Covid-19 Data Analysis
-**Covid Data Exploration from 2020 to 2019**
+**Covid Data Exploration from 2020 to 2021**
 
 **Description** 
 
@@ -16,7 +16,7 @@ In this project, I have explored and analyzed the Covid-19 deaths and Covid-19 v
 
 1. 2.11% is the percent death rate as per total cases globally.
 2. Among all the continents, Europe faced the highest death count. 
-3. The USA had the highest percent population infected at the rate of 8.93% by December 2020 and is predicted to reach the rate of 19.11% by the end of June 2021.
+3. The USA had the highest percentage of the population infected at the rate of 8.93% by December 2020 and is predicted to reach the rate of 19.11% by the end of June 2021.
 
 **Sources used**
 
