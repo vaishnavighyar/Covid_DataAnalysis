@@ -1,5 +1,5 @@
 # Covid-19 Data Analysis
-**Covid Data Exploration from 2020 to 2021**
+**Covid Data Exploration from 2020 to 2022**
 
 **Description** 
 
